@@ -9,7 +9,10 @@
 
   
   <div style="display: inline_block"><br>
-    
+    <div align="center">
+  <a href="https://github.com/LuzkaPy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuzkaPy&show_icons=True&theme=radical&include_all_commits=True&count_private=true"/>
+</div>
     
     
   <img align="Center" alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
