@@ -17,7 +17,8 @@
     
     
   <img align="Center" alt="Rafa-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="Center" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img align="Center" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="60" height="60"/>
 </div>
   
   ##
