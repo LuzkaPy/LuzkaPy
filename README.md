@@ -1,13 +1,15 @@
-## Olá! Eu sou o Lucas Oliveira.
+## Olá Dev! Eu sou o Lucas Oliveira
+#### Tenho 24 anos, moro em Lençóis Paulista-SP. Recém-Ingressado no mundo tecnológico, cada vez mais me apaixonando e na esperança de obter a primeira oportunidade na área ❤
 - 💼 Hoje trabalho em uma Indústria Alimentícia
 - 📚 Cursando Análise e Desenvolvimento de Software
 - 📖 Estudando Python / QA
+- 🦾 Estou focado mais na Área de Back-End
 - 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/LuzkaPy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuzkaPy&show_icons=True&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuzkaPy&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuzkaPy&show_icons=True&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuzkaPy&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
