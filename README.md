@@ -1,7 +1,7 @@
 ## Olá Dev! Eu sou o Lucas Oliveira
 #### Tenho 24 anos, moro em Lençóis Paulista-SP. Recém-Ingressado no mundo tecnológico, cada vez mais me apaixonando e na esperança de obter a primeira oportunidade na área ❤
 - 💼 Hoje trabalho em uma Indústria Alimentícia
-- 📚 Cursando Análise e Desenvolvimento de Software
+- 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 📖 Estudando Python / QA
 - 🦾 Estou focado mais na Área de Back-End
 - 😄 Pronomes: Ele/Dele
