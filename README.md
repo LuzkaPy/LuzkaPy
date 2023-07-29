@@ -49,7 +49,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuzkaPy}/count.svg" /></p> 
 <br>
  
-![Snake animation](https://github.com/LuzkaPy/LuzkaPy/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
 
