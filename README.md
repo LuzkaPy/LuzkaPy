@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+Dev!+👋;+Sou+Lucas+Oliveira!👨‍💻;Tenho+24+anos+✌🏻;Seja+Bem-Vindo(a);🚀+MEU+PORTIFÓLIO+🚀" />
@@ -45,11 +45,11 @@
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Número de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuzkaPy}/count.svg" /></p> 
 <br>
 </div>
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
