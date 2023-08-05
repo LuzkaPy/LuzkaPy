@@ -8,7 +8,7 @@
 
 
 - 📚   Cursando Análise e Desenvolvimento de Sistemas
-- 📖   Python e QA (testes de Qualidade)
+- 📖   Python e QA (testes de Software)
 - 🦾   Foco na Área de Back-End
 - 💼   Estou animado para ingressar no mercado de trabalho e encontrar minha primeira oportunidade na área de Testes. Estou comprometido em aplicar meus conhecimentos e habilidades para contribuir com projetos empolgantes e crescer profissionalmente.
 - 😄   Pronomes: Ele/Dele
